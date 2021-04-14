@@ -1,4 +1,4 @@
-Aim :-  Getting started with R installation R objects and basic statistics
+
 
 library(readr)
 #read tha csv file
